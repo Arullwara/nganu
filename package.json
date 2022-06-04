@@ -1,5 +1,5 @@
 {
-  "name": "nganu",
+  "name": "ArullBotz",
   "version": "1.2.50",
   "description": "Multi Device WhatsApp Bot ",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gimenz/nganu.git"
+    "url": "git+https://github.com/Arullwara/nganu.git"
   },
   "keywords": [
     "whatsapp-bot",
@@ -25,15 +25,15 @@
   "author": "Gimenz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gimenz/nganu/issues"
+    "url": "https://github.com/Arullwara/nganu/issues"
   },
-  "homepage": "https://github.com/Gimenz/nganu#readme",
+  "homepage": "https://github.com/Arullwara/nganu#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "github:Arullwara/baileys",
     "@vitalets/google-translate-api": "^8.0.0",
     "1cak-scraper": "^0.0.2",
     "canvas": "^2.7.0",
-    "canvas-txt": "github:Gimenz/Canvas-Txt",
+    "canvas-txt": "github:Arullwara/Canvas-Txt",
     "cfonts": "^2.10.0",
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
